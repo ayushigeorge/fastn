@@ -84,7 +84,7 @@ secondTitle: Developer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
-secondTitle: explorer.
+secondTitle: explorer 👀.
 
 -- ftd.text: I love communities and inspire to be a Dev Rel engineer one day! 
 role: $lib.home-description-responsive-typography
@@ -234,7 +234,7 @@ image: $assets.files.images.mail.png
 -- end: ftd.column
 
 -- ftd.image:
-src: $assets.files.images.developer.png
+src: $assets.files.images.ayushi.jpg
 width.fixed.px: 400
 
 -- end: ftd.row
