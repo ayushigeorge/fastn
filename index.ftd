@@ -67,7 +67,7 @@ spacing.fixed.px: 20
 
 
 -- ftd.image:
-src: $assets.files.images.ayushi.png
+src: $assets.files.images.ayushi.jpg
 width.fixed.px: 250
 align-self: center
 
@@ -86,7 +86,7 @@ secondTitle: Developer
 firstTitle: and
 secondTitle: explorer.
 
--- ftd.text: I design and create functional and beautiful applications with passion and a focus on user experience and high quality.
+-- ftd.text: I love communities and inspire to be a Dev Rel engineer one day! 
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
