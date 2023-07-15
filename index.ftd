@@ -5,8 +5,6 @@
 -- import: package/button as button
 -- import: package/social-buttons as social
 
-
-
 ;; -------------------------------------------------------------------------
 ;; ***** PORTFOLIO Layout starts *****
 ;; -------------------------------------------------------------------------
@@ -18,7 +16,7 @@
 ;; ----------------------------------------------------------------
 
 -- navbar.header:
-logo: $assets.files.images.theengineergeoreg.jpg
+logo: $assets.files.images.logo.svg
 logoURL: /fastn
 header-item1: Home
 header-item2: About
@@ -35,7 +33,6 @@ cta-item2-link: /fastn/resume
 ;; ***** PORTFOLIO Header ends *****
 ;; ----------------------------------------------------------------
 
-
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast starts *****
 ;; -----------------------------------------------------
@@ -47,7 +44,6 @@ link: https://github.com/ayushigeorge31
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
 ;; -----------------------------------------------------
-
 
 ;; ------------------------------------------
 ;; ***** PORTFOLIO Hero UI starts *****
@@ -86,7 +82,7 @@ secondTitle: Developer
 firstTitle: and
 secondTitle: explorer 👀.
 
--- ftd.text: I love communities and inspire to be a Dev Rel engineer one day! 
+-- ftd.text: I love communities and inspire to be a Dev-Rel engineer one day! 
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
@@ -102,7 +98,7 @@ link: mailto:ayushigeorge31@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
+link: www.ayushigeorge.cardd
 isNewTab: true
 
 -- end: ftd.row
