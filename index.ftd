@@ -67,7 +67,7 @@ spacing.fixed.px: 20
 
 
 -- ftd.image:
-src: $assets.files.images.developer.png
+src: $assets.files.images.ayushi.png
 width.fixed.px: 250
 align-self: center
 
@@ -168,17 +168,17 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Ayushi George,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
-secondTitle: developer
+firstTitle: Python
+secondTitle: Dev, Community Person
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
-secondTitle: explorer.
+secondTitle: Explorer 👀.
 
--- ftd.text: I design and create functional and beautiful applications with passion and a focus on user experience and high quality.
+-- ftd.text: I love communities and inspire to be a Dev Rel engineer one day! 
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
